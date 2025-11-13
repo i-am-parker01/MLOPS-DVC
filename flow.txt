@@ -13,3 +13,9 @@
 13-do git commit for version 2 of data.
 14-check dvc/git status,for up to date.
 15-Repeat for v3 now.
+
+Let's track the data now::
+
+git log --oneline
+git checkout <hash> -git checkout master
+dvc pull
