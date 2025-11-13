@@ -6,3 +6,5 @@
 6-Now do mkdir s3 (Creates a s3 directory.) 
 7-Now we do dvc remote add -d myremote s3 url
 8-Next dvc add data/
+9- Now dvc commit and then dvc push.
+10-Do a git add-commit to s3 to mark as first version of data.
